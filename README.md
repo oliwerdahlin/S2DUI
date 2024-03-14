@@ -88,4 +88,4 @@ A simple UI library inspired by dear ImGUI running on [my OpenGL rendering libra
 ## Results in this
 ![S2DUI](https://github.com/oliwerdahlin/S2DUI/assets/45284364/f5c11a49-3478-43e3-86f1-c3970c8105ba)
 ![S2DUI1](https://github.com/oliwerdahlin/S2DUI/assets/45284364/23ea8a84-0dfd-43d3-a39d-685f3a19bb3c)
-![S2DUI2](https://github.com/oliwerdahlin/S2DUI/assets/45284364/d8c416fb-50a4-4bd3-a4b9-425e595443ae)
+![S2DUI2](https://github.com/oliwerdahlin/S2DUI/assets/45284364/1fbf1913-53d0-4ce2-bf9d-6606484aceb1)
